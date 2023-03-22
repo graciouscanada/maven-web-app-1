@@ -4,14 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Mylandmark.Tech- Home Page</title>
+<title>Fortress Technologies- Home Page</title>
 <link href="images/LT.JPG" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Landmark Technology - Leaders in Software Delivery</h1>
-<h1 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday Sept 19, 2020 at 8am EST for our new batch. 
-	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
+<h1 align="center">Fortress Technology - Leaders in Software Delivery</h1>
+<h1 align="center"> Welcome to Fortress Technology Inc .......your leading IT technology in DevOps and cloud infrastructures  and solutions  and all of your go to leader in all software solutions and support 
+	needs, Fortress Technologies Inc taking the IT world by storm!
+	Fortress Technology is a an ideal online training  platform for DevOps and Cloud Infrastructures. 
 	</h1>
 	<h1 align="center" >JESUS IS LORD</h1>
 <hr>
@@ -20,20 +21,20 @@
 		<img src="images/logo.png" alt="" width="250">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
+		Fortress Technologies Inc, 
 		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		+1 437 234 1271,
+		info@fortresstechnologies.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:info@fortresstechnologies.com">Mail to Fortress Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>Fortress Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://Fortress technologies/">Fortress Technologies</a> </small></p>
 
 </body>
 </html>
